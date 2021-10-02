@@ -1,0 +1,5 @@
+ip u5u7tu.aternos.me
+
+port 30829
+
+
